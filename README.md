@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JWeinert-html
 - 👀 I’m interested in nature.
 - 🌱 I’m currently learning computer.
-- 💞️ I’m looking to collaborate on video games.
+- 💞️ I’m looking to collaborate on video games and art.
 - 📫 How to reach me jweinert@csumb.edu
 
 <!---
